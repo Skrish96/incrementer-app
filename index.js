@@ -1,5 +1,5 @@
 let counte = document.getElementById("counts")
-console.log("hi");
+console.log(counte);
 
 let count=0
 function Button () {
